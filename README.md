@@ -44,4 +44,22 @@ About This Project
 
 This project demonstrates my developing skills in data analytics and business intelligence, combining my professional background in hospitality operations, cost control, and inventory management with data-driven problem-solving.
 
+
+
+## Dashboard Screenshots
+
+### 1. Logistics Control Tower — Overview
+![Logistics Control Tower Overview](Logistics-Control-Tower-Overview.jpg)
+
+### 2. Drivers & Route Performance
+![Drivers Route Performance](Drivers-Route-Performance.jpg)
+
+### 3. Fleet & Operational Performance
+![Fleet Operational Performance](Fleet-Operational-Performance.jpg)
+
+### 4. Safety & Compliance
+![Safety and Compliance](Safety-Compliance.jpg)
+
+
 Author: Osiebuni Urubusi
+
